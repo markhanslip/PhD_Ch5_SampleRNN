@@ -1,4 +1,6 @@
-## This repository contains a Colab notebook and some Python classes I made during my PhD project - the idea was to do the following: 
+## This repository contains a Colab notebook and some Python classes I made during my PhD project in which I explored applications of various deep learning architectures to improvisation, composition and instrumental practice. 
+
+## The idea was to do the following: 
 
 ### 1) take some saxophone recordings 
 ### 2) augment them with time-stretch and polarity inversion
